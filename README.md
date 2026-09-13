@@ -22,7 +22,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F0E,100:4FD1A5&height=190&section=header&text=Juan%20Jos%C3%A9%20Alvarez&fontSize=40&fontColor=D8E3DE&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cybersecurity%20Professional%20%7C%20Blue%20Team%20%26%20SOC&descAlignY=55&descSize=18&descColor=8FA39A" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&pause=1000&color=4FD1A5&center=true&vCenter=true&width=650&lines=Network+Security+%7C+Threat+Detection;Cisco+%7C+Linux+%7C+Python;Bug+Bounty+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
+<img src="https://t4.ftcdn.net/jpg/03/58/10/87/360_F_358108785_rNJtmort9m65M3pft5swd7lnKJcTCB8u.jpg" alt="Typing SVG" />
 
 Universidad Santiago de Cali · Cali, Colombia
 
