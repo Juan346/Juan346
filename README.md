@@ -36,7 +36,7 @@ Universidad Santiago de Cali · Cali, Colombia
 </tr>
 </table>
 
-<img src="https://komarev.com/ghpvc/?username=Juan346&color=4FD1A5&style=flat-square&label=Visitas+al+perfil" />
+<img src="https://t4.ftcdn.net/jpg/03/58/10/87/360_F_358108785_rNJtmort9m65M3pft5swd7lnKJcTCB8u.jpg" />
 
 </div>
 
