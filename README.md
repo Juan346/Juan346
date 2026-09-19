@@ -125,11 +125,11 @@ Universidad Santiago de Cali · Cali, Colombia
 
 ## 🐛 Bug Bounty
 
-- **Plataformas activas:** HackerOne · Bugcrowd · Intigriti *(edita según tus perfiles reales)*
+- **Plataformas activas:** HackerOne · Bugcrowd · Intigriti 
 - **Enfoque:** XSS, IDOR, fallas de configuración, exposición de información sensible
-- **Reconocimientos / Hall of Fame:** agrega aquí tus agradecimientos o reportes públicos a medida que los consigas
 
-> 💡 Tip para ti: cuando tengas tu primer reporte aceptado, agrégalo aquí como una lista con el programa, la severidad y un enlace (si es público). Es lo primero que un reclutador de seguridad revisa.
+
+
 
 ## 🏆 Trofeos
 
@@ -161,9 +161,9 @@ Universidad Santiago de Cali · Cali, Colombia
 
 ## 🎓 Formación &amp; certificaciones
 
-- **Ingeniería de Sistemas** — Universidad Santiago de Cali *(2023 — actualidad)*
+- **Ingeniería de Sistemas** — Universidad Santiago de Cali *(2026 — actualidad)*
 - Fundamentos de ciberseguridad — Cisco Networking Academy / TryHackMe
-- En curso: **Cisco CyberOps Associate** / **CompTIA Security+**
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F0E,100:4FD1A5&height=3&width=100%25" width="100%" />
