@@ -130,13 +130,6 @@ Universidad Santiago de Cali · Cali, Colombia
 
 
 
-
-## 🏆 Trofeos
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Juan346&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</div>
-
 ## 📊 Estadísticas de GitHub
 
 <table align="center">
@@ -149,15 +142,7 @@ Universidad Santiago de Cali · Cali, Colombia
 </tr>
 </table>
 
-## 📈 Actividad
 
-<div align="center">
-
-<!-- Esta imagen la genera automáticamente el workflow de GitHub Actions
-     que está al final de este archivo, una vez lo agregues a tu repo. -->
-<img src="https://raw.githubusercontent.com/Juan346/Juan346/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
 
 ## 🎓 Formación &amp; certificaciones
 
