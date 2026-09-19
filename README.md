@@ -28,11 +28,11 @@ Universidad Santiago de Cali · Cali, Colombia
 
 <table>
 <tr>
-<td align="center"><a href="https://linkedin.com/in/Juan346"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/juan-josé-alvarez-798a19367/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a></td>
 <td align="center"><a href="mailto:bizedtv@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a></td>
 <td align="center"><a href="https://tryhackme.com/p/Juan346"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red" /></a></td>
-<td align="center"><a href="https://hackerone.com/Juan346"><img src="https://img.shields.io/badge/-HackerOne-000000?style=flat-square&logo=hackerone&logoColor=white" /></a></td>
-<td align="center"><a href="https://bugcrowd.com/Juan346"><img src="https://img.shields.io/badge/-Bugcrowd-FF4E00?style=flat-square&logoColor=white" /></a></td>
+<td align="center"><a href="https://hackerone.com/bized8746"><img src="https://img.shields.io/badge/-HackerOne-000000?style=flat-square&logo=hackerone&logoColor=white" /></a></td>
+<td align="center"><a href="https://bugcrowd.com/bized8746"><img src="https://img.shields.io/badge/-Bugcrowd-FF4E00?style=flat-square&logoColor=white" /></a></td>
 </tr>
 </table>
 
@@ -173,7 +173,7 @@ Universidad Santiago de Cali · Cali, Colombia
 
 <table align="center">
 <tr>
-<td align="center"><a href="https://linkedin.com/in/Juan34"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/juan-josé-alvarez-798a19367/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a></td>
 <td align="center"><a href="https://tryhackme.com/p/Juan346"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a></td>
 <td align="center"><a href="https://hackerone.com/bized8746"><img src="https://img.shields.io/badge/-HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white" /></a></td>
 <td align="center"><a href="mailto:bizedtv@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
